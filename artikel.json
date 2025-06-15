@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "🌐 Kenapa Kamu Harus Bisa Membuat Website?",
+    "content": "Pernah kepikiran punya website sendiri tapi merasa itu cuma buat orang IT? Padahal, pelajar, pemula, freelancer, sampai UMKM juga bisa kok! Bikin website itu nggak sesulit yang dibayangkan, malah bisa jadi pintu ke peluang digital yang luas…",
+      "link": "article.html"
+    },
+    {
+      "title": "👨‍💻 Mengenal HTML, CSS, dan JavaScript: 3 Pilar Dasar Membuat Website.(Panduan Santai Buat Kamu yang Baru Mulai Belajar Coding)",
+      "content": "HTML, CSS, dan JavaScript adalah kunci bikin website. Gampang dipelajari, seru dipraktikkan, dan bisa jadi awal perjalananmu di dunia digital...",
+      "link": "Tips-belajar-javascript.html",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Awalnya Gak Bisa Coding, Sekarang Punya Website Sendiri - Ini Caranya!",
+      "content": "Dari nol coding sampai punya website sendiri? Bisa banget! Pelan-pelan belajar HTML, CSS, dan JavaScript.",
+      "link": "Membuat-website-mudah.html"
+    }
+  ]
+}
